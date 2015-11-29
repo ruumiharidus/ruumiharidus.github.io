@@ -1,0 +1,10 @@
+name: Uuri ruumi!
+description: Ruumiülesanded üldhariduskoolidele
+permalink: /:title/
+markdown: kramdown
+kramdown:
+    input: GFM
+    parse_block_html: true
+sass:
+    sass_dir: /assets/styles/
+    style: compressed

@@ -1,0 +1,17 @@
+---
+layout: main
+title: Uuri ruumi!
+---
+
+<div class="lessons">
+	<ul>
+		{% for post in site.posts %}
+			<li class="lesson">
+				<a href="{{ post.url }}">
+					<div class="image"></div>
+					<span>{{ post.title }}</span>
+				</a>
+			</li>
+		{% endfor %}
+	</ul>
+</div>

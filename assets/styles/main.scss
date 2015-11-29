@@ -1,0 +1,428 @@
+---
+---
+
+@import 'normalize.css';
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+$blue: rgb(150, 255, 255);
+$highlight: rgb(245, 100, 255);
+
+$leftMargin: 5.4rem;
+
+body {
+	margin: 2rem auto 6rem;
+
+	font-family: 'Arimo';
+	font-size: 0.9rem;
+	line-height: 1.4;
+
+	text-align: center;
+
+	color: #000;
+	background: #fff;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+.content {
+	max-width: 1072px;
+
+	margin: 2rem auto;
+	padding: 0 2rem;
+
+	text-align: left;
+}
+
+.header {
+	position: relative;
+
+	margin-bottom: 2rem;
+
+	.logo {
+		// display: inline-block;
+
+		width: $leftMargin - 0.5rem;
+		height: $leftMargin - 0.5rem;
+	}
+
+	h1 {
+		display: inline-block;
+
+		margin: 0;
+		margin-bottom: 0.5rem;
+
+		font-size: 3.2rem;
+		line-height: 2.65rem;
+		text-transform: uppercase;
+	}
+
+	.description {
+		margin: 0;
+		margin-left: $leftMargin;
+	}
+
+	.link-home {
+		position: absolute;
+
+		top: 0;
+		right: 0;
+	}
+}
+
+.menu {
+	.section {
+		$height: 4rem;
+
+		width: 100%;
+		height: $height;
+
+		margin-bottom: 3vw;
+		padding: 0 1rem;
+		padding-left: $leftMargin;
+
+		font-size: 2rem;
+		line-height: $height;
+		text-transform: uppercase;
+
+		background-color: $blue;
+
+		cursor: pointer;
+	}
+}
+
+.lessons {
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+	}
+
+	.lesson a {
+		$size: 28vw;
+
+		position: relative;
+
+		display: flex;
+		align-items: center;
+		justify-content: center;
+
+		width: $size;
+		height: $size;
+
+		margin: auto;
+
+		padding: 0.5rem;
+
+		.image {
+			position: absolute;
+
+			top: 0;
+			left: 0;
+
+			width: $size;
+			height: $size;
+
+			background-color: $blue;
+
+			z-index: -100;
+		}
+
+		span {
+			z-index: 100;
+		}
+	}
+}
+
+.lesson-page {
+	$headerHeight: 32rem;
+
+	.lesson-header {
+		position: relative;
+
+		height: $headerHeight;
+		margin-bottom: 2rem;
+
+		text-align: center;
+
+		background-size: cover;
+
+		.lesson-header-overlay {
+			position: absolute;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+
+			top: 0;
+			left: 0;
+
+			width: 100%;
+			height: $headerHeight;
+
+			margin: 0;
+			padding: 0;
+
+			background: rgba(150, 255, 255, 0.8);
+
+			h2 {
+				font-size: 1.4rem;
+				line-height: 1.0;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+
+			p {
+				font-size: 1.4rem;
+				font-weight: bold;
+			}
+		}
+	}
+
+	.text {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: space-between;
+
+		.section-bang,
+		.section-question,
+		.section-dots,
+		.section-background {
+			display: inline-block;
+
+			width: 50%;
+
+			margin: 0;
+			padding-right: 2rem;
+			padding-bottom: 2rem;
+		}
+
+		hr {
+			border: 0;
+
+			width: 100%;
+			height: 2px;
+
+			background: #000;
+		}
+
+		h3 {
+			margin: 0;
+
+			font-size: 4rem;
+			font-weight: bold;
+			text-transform: uppercase;
+
+			color: $blue;
+		}
+
+		.section-background h3 {
+			visibility: hidden;
+		}
+
+		h4 {
+			margin: 0;
+			// margin-top: 2rem;
+
+			font-size: 1.4rem;
+			line-height: 1.2;
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+
+		p,
+		table {
+			margin-bottom: 2rem;
+		}
+
+		table {
+			width: 100%;
+
+			border-collapse: collapse;
+   			border-spacing: 0;
+
+			td:first-child {
+				width: 40%;
+			}
+		}
+
+		.section-dots {
+			a {
+				display: block;
+
+				width: 100%;
+				margin-bottom: 0.5rem;
+    			padding: 0.3rem 0.5rem 0.2rem;
+
+				background-color: $blue;
+
+				&:before {
+					content: "→";
+					margin-right: 0.3rem;
+					font-weight: bold;
+				}
+			}
+		}
+
+		.national-pdf {
+			margin-bottom: 1rem;
+			font-size: 1.4rem;
+			line-height: 1.2;
+			font-weight: bold;
+			text-transform: uppercase;
+
+			&:before {
+				content: "→";
+				margin-right: 0.3rem;
+				font-weight: bold;
+			}
+		}
+	}
+}
+
+@media print {
+    *,
+    *:before,
+    *:after,
+    *:first-letter,
+    *:first-line {
+        // background: transparent;
+        color: #000 !important;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3,
+	h4 {
+        page-break-after: avoid;
+    }
+
+	.header {
+		$leftMargin: 3.4rem;
+
+		.logo {
+			width: 2.9rem;
+			height: 2.9rem;
+		}
+
+		h1 {
+			font-size: 1.8rem;
+			line-height: 1.6rem;
+		}
+
+		.description {
+			margin-left: 3.3rem;
+		}
+	}
+
+	.menu {
+		display: none;
+	}
+
+	.lesson-page {
+		.lesson-header {
+			position: relative;
+			display: block;
+
+			height: auto;
+
+			margin-bottom: 2rem;
+
+			text-align: left;
+
+			background: transparent;
+			background-image: none !important;
+
+			.lesson-header-overlay {
+				position: relative;
+				display: block;
+
+				height: auto;
+
+				background: transparent;
+
+				h2 {
+					font-size: 1.4rem;
+					line-height: 1.0;
+				}
+
+				p {
+					font-size: 1.4rem;
+					font-weight: bold;
+				}
+			}
+		}
+
+		.text {
+			display: block;
+
+			.section-bang,
+			.section-question,
+			.section-dots,
+			.section-background {
+				display: block;
+				width: 100%;
+
+				margin-bottom: 0;
+				padding-bottom: 0;
+			}
+
+			.section-bang,
+			.section-question,
+			.section-background {
+				page-break-after: always;
+			}
+
+			.section-dots {
+				page-break-after: avoid;
+
+				a {
+					display: none;
+				}
+			}
+
+			h3 {
+				margin: 0;
+				font-size: 3rem;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+
+			.section-background {
+				h3 {
+					display: none;
+				}
+			}
+
+			hr {
+				display: none;
+			}
+
+			.national-pdf {
+				display: none;
+			}
+		}
+	}
+}

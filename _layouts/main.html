@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="et">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>{{ site.name }} {{ page.title }}</title>
+	<meta name="description" content="{{ site.description }}">
+
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/main.css">
+</head>
+
+<body>
+	<div class="content">
+		<div class="header">
+			<a href="{{ site.baseurl }}" class="">
+				<img class="logo" src="{{ site.baseurl }}/assets/images/logo.png" alt="{{ site.name }}">
+			</a>
+			<h1><a href="{{ site.baseurl }}">Uuri<br>ruumi!</a></h1>
+			<p class="description">Ruumiülesanded<br>üldhariduskoolidele</p>
+			<a href="{{ site.baseurl }}" class="link-home">ruumiharidus.ee</a>
+		</div>
+
+		<div class="menu">
+			<!--<div class="section section-filter">Sorteeri</div>-->
+			<div class="section section-info">Info</div>
+		</div>
+
+		{{ content }}
+	</div>
+</body>
+<script>
+	// do-print
+	var classname = document.getElementsByClassName('do-print');
+
+    var printDocument = function(e) {
+		e.preventDefault();
+        window.print();
+    };
+
+    for (var i = 0; i < classname.length; i++) {
+        classname[i].addEventListener('click', printDocument, false);
+    }
+</script>
+
+</html>
