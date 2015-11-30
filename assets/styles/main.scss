@@ -168,6 +168,14 @@ a {
 				text-align: center;
 
 				z-index: 100;
+
+				p {
+					margin: 0.5rem !important;
+				}
+
+				.title {
+					text-transform: uppercase;
+				}
 			}
 		}
 	}
