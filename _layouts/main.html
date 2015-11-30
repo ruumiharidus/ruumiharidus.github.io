@@ -25,23 +25,21 @@
 
 		<div class="menu">
 			<!--<div class="section section-filter">Sorteeri</div>-->
-			<div class="section section-info">Info</div>
+			<div class="section section-info do-toggle-info">
+				<div class="label">Info</div>
+				<div class="info-container">
+					<div class="info-content">
+						{% capture info-content %}{% include info.md %}{% endcapture %}
+						{{ info-content | markdownify }}
+					</div>
+				</div>
+			</div>
 		</div>
 
 		{{ content }}
 	</div>
 </body>
 
-<script>
-	var classname = document.getElementsByClassName('do-print');
-
-    var printDocument = function(e) {
-		e.preventDefault();
-        window.print();
-    };
-
-    for (var i = 0; i < classname.length; i++) {
-        classname[i].addEventListener('click', printDocument, false);
-    }
-</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/scripts/main.js"></script>
 </html>

@@ -48,9 +48,9 @@ tervisejooks, tervislik eluviis ja keskkond, nüüdistants jm.
 
 #### Hindamine
 Mida ülesande puhul hinnata?
-õpilane on leidnud põneva koha / oskab oma valikut huvitavalt põhjendada
-õpilane on leidnud kohaga sobituva harjutuse
-õpilane teab, millistele lihastele tema ettenäidatud harjutus mõjub
++ õpilane on leidnud põneva koha / oskab oma valikut huvitavalt põhjendada
++ õpilane on leidnud kohaga sobituva harjutuse
++ õpilane teab, millistele lihastele tema ettenäidatud harjutus mõjub
 
 [Prindi töölehed]({{ site.baseurl }}/assets/documents/hello.pdf)
 [Prindi ülesanne](){:class='do-print'}

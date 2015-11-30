@@ -51,7 +51,7 @@ Mõtteid on üsna lihtne kiiresti järgi proovida: järjest tehtud fotode li
 
 Ülesande kolmas, viimane osa on tehniline teostamine. Proovige hakkama saada minimaalse arvu piltidega – lühike ja lööv on meeldejääv! Vaimustava gifi saab kokku panna ka ainult kahest pildist (mõne rohkemaga on jällegi lihtsam liikumist edasi anda).
 
-Fotodest gifi tegemiseks on mitmeid netipõhiseid tasuta tööriistu (otsingusõna: free online gif maker). Proovi näiteks seda: [gifmaker.me](http://gifmaker.me)
+Fotodest gifi tegemiseks on mitmeid netipõhiseid tasuta tööriistu (otsingusõna: *free online gif maker*). Proovi näiteks seda: [gifmaker.me](http://gifmaker.me)
 
 Näide:
 <iframe src="https://player.vimeo.com/video/18991085?byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>

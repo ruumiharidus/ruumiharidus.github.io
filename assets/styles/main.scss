@@ -78,19 +78,67 @@ a {
 		$height: 4rem;
 
 		width: 100%;
-		height: $height;
 
 		margin-bottom: 1.3rem;
-		padding: 0 1rem;
-		padding-left: $leftMargin;
-
-		font-size: 2rem;
-		line-height: $height;
-		text-transform: uppercase;
+		padding: 0 2rem;
+		// padding-left: $leftMargin;
 
 		background-color: $blue;
 
 		cursor: pointer;
+
+		.label {
+			height: $height;
+
+			padding-left: $leftMargin - 2rem;
+
+			font-size: 2rem;
+			line-height: $height;
+			text-transform: uppercase;
+		}
+
+		.info-container {
+			display: none;
+
+			padding-bottom: 1.3rem;
+
+			.info-content {
+				display: flex;
+
+				section {
+					display: inline-block;
+
+					width: 50%;
+					width: 29rem;
+
+					margin: 0;
+					padding-right: 3rem;
+					padding-bottom: 2rem;
+
+					h3 {
+						margin: 2rem 0 1rem;
+						line-height: 1;
+
+						&.section-first {
+							margin-top: 1rem !important;
+						}
+					}
+				}
+			}
+
+			img {
+				display: block;
+
+				width: 12rem;
+				height: auto;
+
+				margin: 1rem 0;
+			}
+
+			a {
+				text-decoration: underline;
+			}
+		}
 
 		&:hover {
 			background-color: rgba(150, 255, 255, 0.8);

@@ -1,0 +1,39 @@
+<section>
+Arhitektuur on suurepärane platvorm, mis toob kokku erinevate valdkondade teadmised, kombineerib need elulisel viisil ning õpetab mõistma üht meie igapäeva olulist osa. 2015. aasta lõpuks valmib üldhariduskoolide õpetajatele ja õpilastele suunatud kollektsioon ehitatud keskkonda käsitlevatest teemadest, ülesannetest ja õpitegevustest.
+
+Keskkondliku kirjaoskuse kujundamise võimalused on mitmekesised ja põnevad – need toetavad õppeainete lõimimist ja õppe mitmekesistamist. Meile kõigile tuttav igapäevane ruum pakub häid näiteid ühiskondlikest protsessidest ja funktsioonidest, keskkondlikust ja sotsiaalsest jätkusuutlikkusest, kultuurilisest eneseväljendusest, tolerantsusest, koostööst ja tervislikest eluviisidest. Valmiv kogumik on abiks õpetajale teemade selgitamisel, illustreerimisel ning tundi sisustavate ülesannete leidmisel.
+
+“Meie vormime oma hooneid, aga pärast vormivad nemad meid,” on öelnud üks kuulus riigimees*. Linn on kõige suurem teos, milleks inimene võimeline on. Seda teost ei loo keegi üksi, seda teevad paljud inimesed koos. Väga väike osa neist on tegelikult arhitektid – seda olulisem on aga koolist saadav ruumiharidus, sest selle põhjalt saab kujuneda nauditavam teos, parem linn meie kõigi jaoks.
+
+Projekti toetavad Euroopa Kultuurifond ja Eesti Vabariigi Kultuuriministeerium.
+
+\* *“We shape our buildings, thereafter they shape us.”* – Winston Churchill
+</section>
+
+<section>
+### Loe lisaks
+{: .section-first}
+
+[Ruumiteadlikkus aitab elu nautida](http://epl.delfi.ee/news/kultuur/ruumiteadlikkus-aitab-elu-nautida?id=67786177)
+
+[Kooli teeb huvitavamaks ruumiõpe](http://opleht.ee/13821-kooli-teeb-huvitavamaks-ruumiope/)
+
+[Mida Juku ei märka, seda Juhan ei näe](http://www.solness.ee/maja/?mid=111&id=606)
+
+[Arhitektuuriõpe koolitundi](http://www.sirp.ee/s1-artiklid/arhitektuur/arhitektuuriope-koolitundi/)
+
+[Unistuste koolimaja konkursi juhendmaterjal](http://www.arhitektuurikool.ee/konkurss)
+
+### Projektitiim
+
+**Kadri Klementi**<br/>
+kadri@arhitektuurikool.ee
+
+**Karin Tõugu**<br/>
+karin@b210.ee
+
+[Facebook](https://www.facebook.com/ruumiharidus)
+
+### Toetavad / Supported by:
+![ECF]({{ site.baseurl }}/assets/images/ecf_logo.jpg)
+</section>
