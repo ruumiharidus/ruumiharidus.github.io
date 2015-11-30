@@ -9,6 +9,7 @@ html { box-sizing: border-box; }
 $blue: rgb(150, 255, 255);
 $highlight: rgb(245, 100, 255);
 
+$largeWidth: 67rem;
 $leftMargin: 5.4rem;
 
 body {
@@ -30,7 +31,7 @@ a {
 }
 
 .content {
-	max-width: 1072px;
+	width: $largeWidth;
 
 	margin: 2rem auto;
 	padding: 0 2rem;
@@ -44,8 +45,6 @@ a {
 	margin-bottom: 2rem;
 
 	.logo {
-		// display: inline-block;
-
 		width: $leftMargin - 0.5rem;
 		height: $leftMargin - 0.5rem;
 	}
@@ -81,7 +80,7 @@ a {
 		width: 100%;
 		height: $height;
 
-		margin-bottom: 3vw;
+		margin-bottom: 1.3rem;
 		padding: 0 1rem;
 		padding-left: $leftMargin;
 
@@ -92,10 +91,16 @@ a {
 		background-color: $blue;
 
 		cursor: pointer;
+
+		&:hover {
+			background-color: rgba(150, 255, 255, 0.8);
+		}
 	}
 }
 
 .lessons {
+	$size: 20.2rem;
+
 	ul {
 		margin: 0;
 		padding: 0;
@@ -106,38 +111,64 @@ a {
 		justify-content: space-between;
 	}
 
-	.lesson a {
-		$size: 28vw;
-
-		position: relative;
-
-		display: flex;
-		align-items: center;
-		justify-content: center;
-
+	.lesson {
 		width: $size;
 		height: $size;
 
-		margin: auto;
+		margin-bottom: ($largeWidth - 3 * $size);
+		margin-bottom: 1.3rem;
 
-		padding: 0.5rem;
+		a {
+			position: relative;
 
-		.image {
-			position: absolute;
+			display: flex;
+			align-items: center;
+			justify-content: center;
 
-			top: 0;
-			left: 0;
+			width: 100%;
+			height: 100%;
 
-			width: $size;
-			height: $size;
+			padding: 1.5rem;
 
-			background-color: $blue;
+			.image {
+				position: absolute;
 
-			z-index: -100;
-		}
+				top: 0;
+				left: 0;
 
-		span {
-			z-index: 100;
+				width: $size;
+				height: $size;
+
+				background-size: cover;
+
+				z-index: -100;
+			}
+
+			.overlay {
+				position: absolute;
+
+				top: 0;
+				left: 0;
+
+				width: $size;
+				height: $size;
+
+				background-color: rgba(150, 255, 255, 0.8);
+
+				z-index: 0;
+
+				&:hover {
+					background-color: rgba(150, 255, 255, 0.7);
+				}
+			}
+
+			.text {
+				font-size: 1.1rem;
+				font-weight: bold;
+				text-align: center;
+
+				z-index: 100;
+			}
 		}
 	}
 }
@@ -204,6 +235,10 @@ a {
 			padding-bottom: 2rem;
 		}
 
+		a {
+			text-decoration: underline;
+		}
+
 		hr {
 			border: 0;
 
@@ -238,7 +273,9 @@ a {
 		}
 
 		p,
-		table {
+		table,
+		ol,
+		ul {
 			margin-bottom: 2rem;
 		}
 
@@ -253,6 +290,11 @@ a {
 			}
 		}
 
+		iframe {
+			width: 100%;
+			height: 16rem;
+		}
+
 		.section-dots {
 			a {
 				display: block;
@@ -261,12 +303,18 @@ a {
 				margin-bottom: 0.5rem;
     			padding: 0.3rem 0.5rem 0.2rem;
 
+				text-decoration: none;
+
 				background-color: $blue;
 
 				&:before {
 					content: "→";
 					margin-right: 0.3rem;
 					font-weight: bold;
+				}
+
+				&:hover {
+					background-color: rgba(150, 255, 255, 0.8);
 				}
 			}
 		}
@@ -277,6 +325,7 @@ a {
 			line-height: 1.2;
 			font-weight: bold;
 			text-transform: uppercase;
+			text-decoration: none;
 
 			&:before {
 				content: "→";
@@ -392,7 +441,7 @@ a {
 			.section-bang,
 			.section-question,
 			.section-background {
-				page-break-after: always;
+				page-break-after: auto;
 			}
 
 			.section-dots {
@@ -416,7 +465,8 @@ a {
 				}
 			}
 
-			hr {
+			hr,
+			iframe {
 				display: none;
 			}
 

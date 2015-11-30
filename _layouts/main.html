@@ -15,12 +15,12 @@
 <body>
 	<div class="content">
 		<div class="header">
-			<a href="{{ site.baseurl }}" class="">
+			<a href="{{ site.url }}" class="">
 				<img class="logo" src="{{ site.baseurl }}/assets/images/logo.png" alt="{{ site.name }}">
 			</a>
-			<h1><a href="{{ site.baseurl }}">Uuri<br>ruumi!</a></h1>
+			<h1><a href="{{ site.url }}">Uuri<br>ruumi!</a></h1>
 			<p class="description">Ruumiülesanded<br>üldhariduskoolidele</p>
-			<a href="{{ site.baseurl }}" class="link-home">ruumiharidus.ee</a>
+			<a href="{{ site.url }}" class="link-home">ruumiharidus.ee</a>
 		</div>
 
 		<div class="menu">
@@ -31,8 +31,8 @@
 		{{ content }}
 	</div>
 </body>
+
 <script>
-	// do-print
 	var classname = document.getElementsByClassName('do-print');
 
     var printDocument = function(e) {
@@ -44,5 +44,4 @@
         classname[i].addEventListener('click', printDocument, false);
     }
 </script>
-
 </html>

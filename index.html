@@ -1,6 +1,5 @@
 ---
 layout: main
-title: Uuri ruumi!
 ---
 
 <div class="lessons">
@@ -8,8 +7,12 @@ title: Uuri ruumi!
 		{% for post in site.posts %}
 			<li class="lesson">
 				<a href="{{ post.url }}">
-					<div class="image"></div>
-					<span>{{ post.title }}</span>
+					<div class="image" style="background-image:url('{{ post.image }}')"></div>
+					<div class="overlay"></div>
+					<div class="text">
+						<p class="title">ÜLESANNE:<br>{{ post.title }}</h2>
+						<p class="description">{{ post.description }}</h2>
+					</div>
 				</a>
 			</li>
 		{% endfor %}
