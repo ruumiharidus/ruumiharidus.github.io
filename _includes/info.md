@@ -27,10 +27,10 @@ Projekti toetavad Euroopa Kultuurifond ja Eesti Vabariigi Kultuuriministeerium.
 ### Projektitiim
 
 **Kadri Klementi**<br/>
-kadri@arhitektuurikool.ee
+[kadri@arhitektuurikool.ee](kadri@arhitektuurikool.ee)
 
 **Karin Tõugu**<br/>
-karin@b210.ee
+[karin@b210.ee](karin@b210.ee)
 
 [Facebook](https://www.facebook.com/ruumiharidus)
 
