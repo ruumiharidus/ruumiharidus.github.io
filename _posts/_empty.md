@@ -2,7 +2,7 @@
 layout: lesson
 title:
 description:
-image: /assets/images/
+image: /images/
 ---
 
 <section class="section-bang">
