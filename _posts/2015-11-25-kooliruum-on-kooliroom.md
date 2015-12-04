@@ -2,7 +2,7 @@
 layout: lesson
 title: Kooliruum on koolirõõm
 description: Oma koolimaja põnevat kohta tutvustav liikuv gif-pilt.
-image: /assets/images/kooliruum-on-kooliroom.jpg
+image: /images/kooliruum-on-kooliroom.jpg
 ---
 
 <section class="section-bang">

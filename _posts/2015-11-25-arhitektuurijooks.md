@@ -2,7 +2,7 @@
 layout: lesson
 title: Arhitektuurijooks
 description: Jooksuring keskkonnast inspireeritud võimlemisharjutusega.
-image: /assets/images/arhitektuurijooks.jpeg
+image: /images/arhitektuurijooks.jpeg
 ---
 
 <section class="section-bang">

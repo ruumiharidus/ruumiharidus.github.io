@@ -16,7 +16,7 @@
 	<div class="content">
 		<div class="header">
 			<a href="{{ site.url }}" class="">
-				<img class="logo" src="{{ site.baseurl }}/assets/images/logo.png" alt="{{ site.name }}">
+				<img class="logo" src="{{ site.baseurl }}/images/logo.png" alt="{{ site.name }}">
 			</a>
 			<h1><a href="{{ site.url }}">Uuri<br>ruumi!</a></h1>
 			<p class="description">Ruumiülesanded<br>üldhariduskoolidele</p>
@@ -29,8 +29,11 @@
 				<div class="label">Info</div>
 				<div class="info-container">
 					<div class="info-content">
-						{% capture info-content %}{% include info.md %}{% endcapture %}
-						{{ info-content | markdownify }}
+						{% for post in site.posts %}
+							{% if post.title == "info" %}
+								{{ post.content }}
+							{% endif %}
+						{% endfor %}
 					</div>
 				</div>
 			</div>

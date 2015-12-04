@@ -5,16 +5,18 @@ layout: main
 <div class="lessons">
 	<ul>
 		{% for post in site.posts %}
-			<li class="lesson">
-				<a href="{{ post.url }}">
-					<div class="image" style="background-image:url('{{ post.image }}')"></div>
-					<div class="overlay"></div>
-					<div class="text">
-						<p class="title">{{ post.title }}</h2>
-						<p class="description">{{ post.description }}</h2>
-					</div>
-				</a>
-			</li>
+			{% if post.title != "info" %}
+				<li class="lesson">
+					<a href="{{ post.url }}">
+						<div class="image" style="background-image:url('{{ post.image }}')"></div>
+						<div class="overlay"></div>
+						<div class="text">
+							<p class="title">{{ post.title }}</h2>
+							<p class="description">{{ post.description }}</h2>
+						</div>
+					</a>
+				</li>
+			{% endif %}
 		{% endfor %}
 	</ul>
 </div>
