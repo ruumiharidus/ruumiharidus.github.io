@@ -1,9 +1,11 @@
 ---
 layout: lesson
 title: Kooliruum on koolirõõm
-description: Oma koolimaja põnevat kohta tutvustav liikuv gif-pilt.
-image: /images/kooliruum-on-kooliroom.jpg
+description: "Oma koolimaja põnevat kohta tutvustav liikuv gif-pilt."
+image: "/images/kooliruum-on-kooliroom.jpg"
+published: true
 ---
+
 
 <section class="section-bang">
 ### !
@@ -53,7 +55,9 @@ Ülesande kolmas, viimane osa on tehniline teostamine. Proovige hakkama saada m
 
 Fotodest gifi tegemiseks on mitmeid netipõhiseid tasuta tööriistu (otsingusõna: *free online gif maker*). Proovi näiteks seda: [gifmaker.me](http://gifmaker.me)
 
-Näide:
+![gif-1.gif]({{site.baseurl}}/_posts/gif-1.gif)
+![gif-2.gif]({{site.baseurl}}/_posts/gif-2.gif)
+![gif-3.gif]({{site.baseurl}}/_posts/gif-3.gif)
 <iframe src="https://player.vimeo.com/video/18991085?byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
 
 </section>
