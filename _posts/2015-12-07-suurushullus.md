@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: lesson
 description: "Mõõda koolimaja ära!"
 image: /images/suurushullus.jpg
