@@ -1,9 +1,11 @@
 ---
 layout: lesson
 title: Keha on ruum
-description: Ruumi uurimine oma keha abil.
-image: /images/keha-on-ruum.jpg
+description: Ruumi uurimine oma keha abil
+image: "/images/keha-on-ruum.jpg"
+published: true
 ---
+
 
 <section class="section-bang">
 ### !
