@@ -2,7 +2,7 @@
 published: false
 layout: lesson
 description: "Mõõda koolimaja ära!"
-image: /images/infosulg.jpg
+image: /images/suurushullus.jpg
 ---
 
 
