@@ -66,9 +66,9 @@ Fotodest gifi tegemiseks on mitmeid netipõhiseid tasuta tööriistu (otsingu
 ------
 
 <section class="section-dots">
-### ..
+### ...
 
-#### Põhimõisted ja/või võtmesõnad
+#### Põhimõisted, võtmesõnad
 tantsuline liikumine, nüüdistants, arhitektuur, stop-motion animatsioon, stsenaarium
 
 #### Hindamine
@@ -86,9 +86,9 @@ Mida ülesande puhul hinnata?
 
 
 <section class="section-background">
-### ..
+### ...
 
-#### Lisavõimalused / alternatiivid
+#### Lisavõimalused, alternatiivid
 + Lühema versioon: tegutseda väiksemal alal (nt ainult klassiruumis), iga õpilane leiutab etteantud ajaga (nt 10 min) ühe põneva poosi. Kõik tegutsevad samaaegselt.
 + Pikem versioon: tegutseda suuremal alal, nt terves koolimajas, proovida järele paljusid võimalusi, esitleda ja vaadata tulemusi üheskoos (nt ekskursiooni, fotoseeria vormis).
 + Nagu ka videoklippidest näha, saab efektsed pildid nt ühevärviliselt või lihtsalt värviliselt riietudes. Riietust teadlikult valides ja kadreeringut planeerides on võimalik ülesande teine osa (tulemuste esitlemine) teostada läbimõeldud foto- või videoprojektina (esitada tehtu fotona, liikuva gif-pildina või videoklipina).
