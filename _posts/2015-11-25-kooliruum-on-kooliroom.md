@@ -1,10 +1,11 @@
 ---
 layout: lesson
 title: Kooliruum on koolirõõm
-description: "Oma koolimaja põnevat kohta tutvustav liikuv gif-pilt."
+description: "Oma koolimaja põnevat kohta tutvustav liikuv gif-pilt"
 image: "/images/kooliruum-on-kooliroom.jpg"
 published: true
 ---
+
 
 
 <section class="section-bang">
@@ -13,7 +14,7 @@ published: true
 vanus: 				| II ja III kooliaste, gümnaasium
 kestus: 			| 45 min
 vorm: 				| füüsiline tegevus, töö arvutiga
-nõuab eeltööd:		| ei
+eeltöö:				| -
 vajalikud vahendid:	| fotokas, internetiühendus või pilditöötlusprogramm
 seotud õppeained:	| arvutiõpetus
 boonus:				| ei vaja ettevalmistust
