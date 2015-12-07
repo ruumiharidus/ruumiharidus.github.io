@@ -1,6 +1,10 @@
 ---
 published: false
+layout: lesson
+description: "Mõõda koolimaja ära!"
+image: /images/infosulg.jpg
 ---
+
 
 
 <section class="section-bang">
