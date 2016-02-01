@@ -6,6 +6,7 @@ image: /images/pingpong.jpg
 ---
 
 
+
 <section class="section-bang">
 ### !
 
@@ -74,4 +75,3 @@ Võib laulda või teha muusikat, aga julgustan proovima ka hääli, mida tav
 
 [Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
 </section>
-
