@@ -1,10 +1,9 @@
 ---
-published: false
+published: true
 layout: lesson
 description: Koolimööbli välimääraja
 image: /images/
 ---
-
 
 <section class="section-bang">
 ### !

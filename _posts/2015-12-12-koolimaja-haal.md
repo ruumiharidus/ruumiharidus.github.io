@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: lesson
 description: "Kuula koolimaja!"
 image: /images/pingpong.jpg
@@ -12,7 +12,7 @@ image: /images/pingpong.jpg
 
 vanus: 				| I, II ja III kooliaste, gümnaasium
 kestus: 			| 45 min
-vorm: 				| 
+vorm: 				|
 eeltöö:				| -
 vajalikud vahendid:	| (heli- või videosalvestusvahend)
 seotud õppeained:	| muusika, bioloogia
