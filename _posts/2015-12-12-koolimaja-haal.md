@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: lesson
 description: "Kuula koolimaja!"
 image: /images/pingpong.jpg
 ---
+
 
 
 
