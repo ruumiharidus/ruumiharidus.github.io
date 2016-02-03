@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: lesson
 description: Koolimööbli välimääraja
 image: /images/
 ---
+
 
 
 <section class="section-bang">
@@ -75,4 +76,3 @@ disain, funktsioon, materjal, konstruktsioon
 
 [Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
 </section>
-
