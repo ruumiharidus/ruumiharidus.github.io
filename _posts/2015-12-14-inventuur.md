@@ -25,7 +25,6 @@ Koolimaja mööbli ja sisustuse kaardistamine.
 
 #### Tunni ettevalmistus
 Tund ei vaja ettevalmistust.
-
 </section>
 
 <section class="section-question">
