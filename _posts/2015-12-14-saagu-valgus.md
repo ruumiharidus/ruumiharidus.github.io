@@ -9,10 +9,10 @@ image: /images/
 <section class="section-bang">
 ### !
 
-vanus: 				|
+vanus: 				| gümnaasium
 kestus: 			|
 vorm: 				|
-nõuab eeltööd:		|
+eeltöö:				| jah
 vajalikud vahendid:	|
 seotud õppeained:	|
 seotud teemad:		|
