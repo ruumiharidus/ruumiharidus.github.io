@@ -1,5 +1,8 @@
 ---
 published: true
+layout: lesson
+image: /images/
+description: Disaini meeleolu loov lamp
 ---
 
 
