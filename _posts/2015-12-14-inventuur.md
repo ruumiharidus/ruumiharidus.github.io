@@ -2,8 +2,9 @@
 published: true
 layout: lesson
 description: Koolimööbli välimääraja
-image: /images/
+image: /_posts/inventuur.jpg
 ---
+
 
 
 
