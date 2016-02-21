@@ -7,14 +7,9 @@ $(document).ready(function() {
 	$('.do-toggle-info').on('click', function(e) {
 		e.preventDefault();
 
-		console.log('toggle');
-
 		$('.info-container').slideToggle({
 			duration: 400,
-			easing: 'linear',
-			complete: function(e) {
-				console.log('complete');
-			}
+			easing: 'linear'
 		});
 	});
 

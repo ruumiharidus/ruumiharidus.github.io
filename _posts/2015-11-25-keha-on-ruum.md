@@ -45,15 +45,16 @@ Väga oluline on leida endas pühendumus: oskus võtta kehalise loomingu ül
 
 <iframe src="https://player.vimeo.com/video/102820770?byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
 
-*Ergonomic Excursion: We Want to Become Architecture*
-Ergonoomiline ekskursioon: me tahame saada arhitektuuriks
+*Ergonomic Excursion: We Want to Become Architecture.*
+Ergonoomiline ekskursioon: me tahame saada arhitektuuriks.
+{:.caption}
 
 Tantsuline aktsioon, mis uurib keha ja ruumi suhet ehk seda, kuidas mõista ruumi keha abil ja vastupidi — kuidas mõista keha ehitatud keskkonna kaudu.
 
 <iframe src="https://player.vimeo.com/video/69324332?byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
 
-*Bodies in Urban Spaces*
-Kehad linnaruumis
+*Bodies in Urban Spaces.* Kehad linnaruumis.
+{:.caption}
 
 Austria koreograafia Willi Dorneri loodud teos, mida taasesitatakse üle maailma. Tantsijate ülesanne on leida linnaruumis ja arhitektuuris kohad, millega nende keha sobitub. Enamasti ei ole need leidkohad inimkehaga arvestanud — see ongi juhuslikkus ja uue olukorra loomine, mis köidab nii teose esitajaid kui publikut.
 

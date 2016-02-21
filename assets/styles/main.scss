@@ -71,6 +71,18 @@ a {
 		top: 0;
 		right: 0;
 	}
+
+	.link-fb {
+		position: absolute;
+
+		top: 1.5rem;
+		right: 0;
+
+		img {
+			width: 1.2rem;
+			height: 1.2rem;
+		}
+	}
 }
 
 .menu {
@@ -81,7 +93,6 @@ a {
 
 		margin-bottom: 1.3rem;
 		padding: 0 2rem;
-		// padding-left: $leftMargin;
 
 		background-color: $blue;
 
@@ -136,7 +147,27 @@ a {
 			}
 
 			a {
-				text-decoration: underline;
+				padding-bottom: 2px;
+				border-bottom: 1px solid #000;
+			}
+
+			.link-arrow {
+				display: block;
+
+				margin-bottom: 0.5rem;
+
+				border: 0;
+				padding: 0;
+
+				&:before {
+					content: "→";
+					margin-right: 0.3rem;
+					font-weight: bold;
+				}
+			}
+
+			.logo {
+				width: 9rem;
 			}
 		}
 
@@ -292,7 +323,10 @@ a {
 		}
 
 		a {
-			text-decoration: underline;
+			text-decoration: none;
+
+			padding-bottom: 2px;
+			border-bottom: 1px solid #000;
 		}
 
 		hr {
@@ -312,10 +346,6 @@ a {
 			text-transform: uppercase;
 
 			color: $blue;
-		}
-
-		.section-background h3 {
-			visibility: hidden;
 		}
 
 		h4 {
@@ -346,9 +376,20 @@ a {
 			}
 		}
 
+		img {
+			width: 100%;
+		}
+
 		iframe {
 			width: 100%;
 			height: 16rem;
+		}
+
+		iframe + em,
+		img + em,
+		.caption {
+			margin-top: 0rem;
+			color: #999;
 		}
 
 		.section-dots {
@@ -360,6 +401,7 @@ a {
     			padding: 0.3rem 0.5rem 0.2rem;
 
 				text-decoration: none;
+				border: 0;
 
 				background-color: $blue;
 
@@ -375,18 +417,26 @@ a {
 			}
 		}
 
-		.national-pdf {
-			margin-bottom: 1rem;
-			font-size: 1.4rem;
-			line-height: 1.2;
-			font-weight: bold;
-			text-transform: uppercase;
-			text-decoration: none;
+		.section-background {
+			h3 {
+				visibility: hidden;
+			}
 
-			&:before {
-				content: "→";
-				margin-right: 0.3rem;
+			.national-pdf {
+				margin-bottom: 1rem;
+				font-size: 1.4rem;
+				line-height: 1.2;
 				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+
+				border: 0;
+
+				&:before {
+					content: "→";
+					margin-right: 0.3rem;
+					font-weight: bold;
+				}
 			}
 		}
 	}
