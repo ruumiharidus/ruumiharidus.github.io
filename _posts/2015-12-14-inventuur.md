@@ -2,9 +2,16 @@
 published: true
 layout: lesson
 description: Koolimööbli välimääraja
-image: /images/
+image: /images/inventuur.jpg
 ---
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> a7ac866e1f646ac90b8f62f7fbf8d2dbb45f8710
 <section class="section-bang">
 ### !
 
@@ -22,7 +29,6 @@ Koolimaja mööbli ja sisustuse kaardistamine.
 
 #### Tunni ettevalmistus
 Tund ei vaja ettevalmistust.
-
 </section>
 
 <section class="section-question">
@@ -74,4 +80,3 @@ disain, funktsioon, materjal, konstruktsioon
 
 [Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
 </section>
-
