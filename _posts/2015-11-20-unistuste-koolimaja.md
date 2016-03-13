@@ -35,7 +35,13 @@ Hea ja nüüdisaegse koolihoone väljamõtlemine. Ülesanne pärineb konkursilt 
 
 
 #### Ülesande käik
+Käesolev ülesanne vaatleb arhitektuuri koolimajade näitel ja põhineb 2014. aasta sügisel toimunud kooliõpilaste arhitektuurikonkursil "Unistuste koolimaja".
 
+Ülesande esimeses osas tutvutakse slaidide vahendusel 15 näitega koolimajadest ja 15 näitega koolimajade interjööridest (slaidid saab alla laadida lehe allservas olevalt lingilt). Koos sissejuhatusega on kokku 37 slaidi. Slaide saadab õpetajaraamat, milles on nii taustainfot kui arutlusküsimusi. Loomulikult saab veel parema tunni, kui materjali õpilaste eale ja huvie kohandada.
+
+Esimesed 15 koolimaja annavad õpetajale võimaluse hoonete taustalugu avada ja olla eeskujuks nende lihtsal analüüsimisel ja olulise väljatoomisel. Järgmised 15 kooliruumi sobivad hästi õpilastega koos uurimiseks – siin ei ole taustaloo tundmine enam nii määrav ja arutleda võib fotol oleva konkreetse ruumi üle. Slaide saatev õpetajaraamat pakub ka väikest spikrit, mida iga hoone ja ruumi puhul märgata.
+
+Ülesande teises osas loovad õpilased oma visiooni heast (või lausa ideaalsest) koolimajast. Visioon on paras vormistada jooniste (nt kuni neli A4 lehte) ja seletuskirjana (kuni üks A4 leht). Natuke näpunäiteid leiad [konkursi kodulehelt] (http://www.arhitektuurikool.ee/konkurss-2014/vormistamise-abi/).
 
 </section>
 
