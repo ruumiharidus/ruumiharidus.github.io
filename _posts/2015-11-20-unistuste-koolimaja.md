@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: lesson
 image: "/images/unistuste-koolimaja.jpg"
 description: Visioon ideaalsest koolist
