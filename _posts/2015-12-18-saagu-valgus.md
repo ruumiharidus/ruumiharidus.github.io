@@ -77,7 +77,15 @@ Valminud valgustitest on kindlasti efektne kujundada näitus - selleks võib ide
 Valgusti, valgusallikas, valgus, valguse tugevus, valguse värvus, elekter ja elektriohutus, valgusvaegus, talvemasendus (SAD - seasonal affective disorder)
 
 #### Hindamine
-
+Mida ülesande puhul hinnata?
+- õpilane on esimeses osas huviga näiteid jälginud
+- õpilane on esimeses osas oma muljeid jaganud, arutlenud
+- õpilane on teises osas materjalide ja valgusega mitmeid erinevaid katseid teinud
+- õpilane on teises osas oma katseid selgitanud ja analüüsinud, oskab teha üldistusi, anda hinnanguid, viidata tekkinud küsimustele või uutele ideedele
+- õpilane on kolmandas osas valinud teda inspireeriva märksõna
+- õpilane on kolmandas osas oma ideed terviklikult arendanud (mõelnud nii ohutusele, funktsionaalsusele kui meeleolule)
+- õpilane on oma idee lõpuni viinud (vajadusel seda protsessi jooksul muutes või kohandades)
+- õpilase taotlus on koos õpilase selgitustega valminud valgustis äratuntav
 
 [Prindi ülesanne](){:class='do-print'}
 [Tagasiside]({{ site.baseurl }}/assets/documents/hello.pdf)
