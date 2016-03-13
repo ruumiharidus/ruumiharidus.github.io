@@ -38,9 +38,9 @@ boonus:				|
 ------
 
 <section class="section-dots">
-### ..
+### ...
 
-#### Põhimõisted ja/või võtmesõnad
+#### Põhimõisted, võtmesõnad
 
 
 #### Hindamine
@@ -53,11 +53,13 @@ boonus:				|
 
 
 <section class="section-background">
-### ..
+### ...
 
-#### Lisavõimalused / alternatiivid
+#### Lisavõimalused, alternatiivid
 
 
-[Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
+#### Riiklik õppekava ja lõiming
+Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
+
 </section>
 
