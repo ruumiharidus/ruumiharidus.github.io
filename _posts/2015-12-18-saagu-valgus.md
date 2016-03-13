@@ -20,10 +20,10 @@ seotud teemad:		| valgus, elekter
 boonus:				| efektne näitus
 
 #### Ülesande kirjeldus
-
+Lühemat või pikemat sorti loovtööprojekt, mille käigus uurivad õpilased valgustust ja meisterdavad ise päris lambi.
 
 #### Tunni ettevalmistus (õpetajale)
-
+Ülesande esimeseks osaks on vaja varuda mõned eri sorti valgustid. Need tuleb enne tundi ühte pimendatavasse klassi valmis seada. Soovitatav on valida ruum, mis on õpilastele igapäevasest koolielust väga tuttav (nt õppeklass, aga see võib olla ka muu tihti kasutatav koht) - varasema kogemusega võrreldes on muutus mõjusam. Varutud lisavalgustid tuleb valitud ruumi paigutada nii, et iga valgusti tekitaks omamoodi valgusolukorra ja meeleolu. Kasutada võib käepäraseid valgusallikaid: väike näpitslamp, laualamp, ehitusprožektor, efektse varjuga lamp (heidab ruumi põnevaid varje), jõulutuled, taskulamp, küünal jne. Väga oluline on aga valitud lampide paigutus ehk kuidas need ruumi valgustavad (madalalt, kõrgelt, toa keskelt või nurgast, heidavad valgust kaugele üle ruumi või valgustavad välja lähedalasuva pinna, suunatud alt üles või ülevalt alla, paistavad silma või mitte jne) ja nende valguse tugevus ja värvus (valida tuleks erineva valgustugevusega ja võimalusel ka eri värvi valgusega lambid). NB! Ka valgel valgusel on eri toonid (sinakas ehk külm valge ja kollakas ehk soe valge), vastavad pirnid on enamikes poodides olemas. Lisaks valguse ja valgustite teemale võib ette valmistada lühikokkuvõtted järgmistest seotud teemadest: valgus kui füüsikaline nähtus, elektriohutuse põhitõed, erinevad pirnid, valguse olulisus inimesele (sh hea töövalgus, valguse vaeguse mõjud) jmt.
 
 </section>
 
