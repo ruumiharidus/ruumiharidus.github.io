@@ -6,17 +6,18 @@ description: Disaini meeleolu loov lamp
 ---
 
 
+
 <section class="section-bang">
 ### !
 
 vanus: 				| gümnaasium
-kestus: 			|
-vorm: 				|
-nõuab eeltööd:		|
-vajalikud vahendid:	|
-seotud õppeained:	|
-seotud teemad:		|
-boonus:				|
+kestus: 			| min. 2 x 45 min
+vorm: 				| arutelu, katsed, loovtöö
+nõuab eeltööd:		| jah
+vajalikud vahendid:	| erinevad valgustid, materjalid
+seotud õppeained:	| füüsika, bioloogia, psühholoogia
+seotud teemad:		| valgus, elekter
+boonus:				| efektne näitus
 
 #### Ülesande kirjeldus
 
@@ -82,4 +83,3 @@ Valminud valgustitest on kindlasti efektne kujundada näitus - selleks võib ide
 
 [Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
 </section>
-
