@@ -1,9 +1,10 @@
 ---
 published: true
 layout: lesson
-description: "Kuula koolimaja!"
+description: "Kuula kooli!"
 image: "/images/koolimaja-haal.jpeg"
 ---
+
 
 
 
