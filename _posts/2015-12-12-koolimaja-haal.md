@@ -20,7 +20,7 @@ seotud teemad:		| akustika, meeled
 boonus:				| keeleülene
 
 #### Ülesande kirjeldus
-Koolimaja häälte kuulamine.
+Koolimaja häälte kuulamine. Ülesanne pärineb Kooliruum’16 loovtööprojektist.
 
 #### Tunni ettevalmistus
 Tund ei vaja ettevalmistust.
