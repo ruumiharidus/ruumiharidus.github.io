@@ -5,12 +5,8 @@ description: "Kuula koolimaja!"
 image: /images/pingpong.jpg
 ---
 
-<<<<<<< HEAD
-=======
 
 
-
->>>>>>> a7ac866e1f646ac90b8f62f7fbf8d2dbb45f8710
 <section class="section-bang">
 ### !
 
