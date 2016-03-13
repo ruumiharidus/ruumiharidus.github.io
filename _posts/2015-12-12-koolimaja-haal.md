@@ -71,10 +71,14 @@ akustika, kõla, kaja
 
 
 <section class="section-background">
-### ..
+### ...
 
-#### Lisavõimalused / alternatiivid
+#### Lisavõimalused, alternatiivid
+
++ Ülesande võib siduda ka harjutustega eelolevaks esinemiseks, nt jõulukontserdiks. Sellisel juhul võib proovida, kuidas sama lugu kõlab erinevates ruumides (sh ka trepialustes, plaaditud seintega ruumis, õues jm).
++ Lindistused võib vormistada viktoriinina (kas tunneme heli järgi ruumi ära?).
 
 
-[Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
+#### Riiklik õppekava ja lõiming
+Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
 </section>
