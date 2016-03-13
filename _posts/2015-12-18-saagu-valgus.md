@@ -35,19 +35,29 @@ Valgus on ideaalne valdkonnaülene teema, milles kohtuvad paljude erialade teadm
 
 #### Ülesande käik
 
-Ülesanne algab pimedas ruumis. Tegu võib olla mõne igapäevase klassiruumiga või selleks ülesandeks valitud muu ruumiga (näiteks saal, kohvik, raamatukogu vm). Erinevalt tavapärasest sisenevad õpilased seekord aga pimedusse (lambid on kustutatud, kardinad või aknakatted ette tõmmatud. Kui kõik on endale hämaras koha leidnud, suletakse ka uks. Kuidas tundub igapäevane ja tuttav keskkond pimedas? Milline on meeleolu?
+Ülesanne on soovitatav jagada mitmeks kohtumiseks. Vähimas vormis võib teemaga tutvuda topelttunni jooksul (2 x 45 min), aga optimaalne on teostada ülesanne väiksema või suurema loovtööprojektina. Ülesanne jaguneb kolmeks osaks: (1) teemaga tutvumine, (2) katsetamine ja idee arendamine, (3) valgusti valmistamine. Topelttunniga jõuab ette võtta ainult ülesande esimese ja teise osa.
 
-Peale väikest arutelu ja muljetamist lülitab õpetaja sisse ühe mitmest lambist, mille ta on ruumi varem valmis pannud (vt ettevalmistus). Kas meelolu muutus? Kuidas? Millised tunded, mõtted, seosed tekivad? Kas õhustikku võiks võrrelda mõne kirjandus- või filmižanriga? Või mõne teist sorti ruumiga (kunstigalerii, teatrilava, elutuba vm)? Miks? Kuidas mõjutab valgus ruumielamust?
+I OSA
+
+Ülesanne algab pimedas ruumis. Tegu võib olla mõne igapäevase klassiruumiga või selleks ülesandeks valitud muu ruumiga (näiteks saal, kohvik, raamatukogu, garderoob vm). Erinevalt tavapärasest sisenevad õpilased seekord aga pimedusse (lambid on kustutatud, kardinad või aknakatted ette tõmmatud. Kui kõik on endale hämaras koha leidnud, suletakse ka uks. Kuidas tundub igapäevane ja tuttav keskkond pimedas? Milline on meeleolu?
+
+Peale väikest arutelu ja muljetamist lülitab õpetaja sisse ühe mitmest lambist, mille ta on ruumi varem valmis pannud (vt tunni ettevalmistus). Kas meelolu muutus? Kuidas? Millised tunded, mõtted, seosed tekivad? Kas õhustikku võiks võrrelda mõne kirjandus- või filmižanriga? Või mõne teist sorti ruumiga (kunstigalerii, teatrilava, elutuba vm)? Miks? Kuidas mõjutab valgus ruumielamust? Siin ei peaks veel funktsionaalsusele mõtlema (st kas selline lamp saaks ka tegelikult selles ruumis olla või jääks see tegevustele ette), keskendume sellele, mida valgus suudab ruumis teha.
 
 Õpetaja kustutab lambi ja lülitab sisse järgmise. Arutletakse samu küsimusi, võrreldakse uut valgustust eelmisega. Leitakse meeleolu loomiseks olulised komponendid (valguse tugevus ja värv, suund, lambivarju kujundus jm).
 
-Korratakse sama kõigi ruumi varutud lampidega, sh ka ruumi tavalise valgustusega. Milline valguslahendus meeldis kõige enam või oli kõige mõjusam? Miks? Milliseid põnevaid valguslahendusi on veel nähtud-kogetud?
+Korratakse sama kõigi ruumi varutud lampidega, sh ka ruumi tavalise valgustusega. Milline valguslahendus meeldis kõige enam või oli kõige mõjusam? Miks? Milliseid põnevaid valguslahendusi on veel nähtud-kogetud kuskil mujal (väljaspool kooli)?
 
 Tavapäraselt valgustatud ruumis on hea uurida ka kõiki eelnevalt katsetatud lampe ja nende disaini. Mille poolest need erinevad? Mille poolest sarnanevad? Mis on nende funktsioon (laualamp / töölamp, meeleolu loomine vm)?
 
-Lisaks vaadatakse näiteid slaididelt: tutvutakse kuulsate valgustitega ja valgustidisaini põhimõtetega, valgusallikatega ja valguse omadustega.
+Kui on aega, võib läbi proovida ka valgustite kombinatsioone - lülitada sisse paar või mitu korraga ja uurida ruumi ja iseenda meeleolu sellises valguses.
 
-Peale sissejuhatust asuvad õpilased oma lampi kujundama. Töötada võib nii üksi kui paaris. Visandi loomiseks on hea, kui õpilastel on võimalus eksperimenteerida erinevate materjalidega (paberid, tekstiilid, kiled, puit jne). Valgusallikana võib katsetamise käigus kasutada käepärast: näiteks taskulampi või telefoni. Selles faasis on oluline anda õpilastele aega tutvuda erinevate materjalide omadustega (milline on nende vastastikmõju valgusega ja kuidas neist valgustit ehitada). Seejärel võib ühiselt või paarides omavahel arutleda, mida katsete käigus märgati ja mis köitis.
+Ülesande esimene osa jätkub slaididelt näidete vaatamisega: tutvutakse kuulsate valgustitega ja valgustidisaini põhimõtetega, valgusallikatega ja valguse omadustega, valguse olulisusega psüühikale.
+
+II OSA
+
+Peale esimest, sissejuhatavat osa asuvad õpilased materjale katsetama. Esimesed eksperimendid võib teha ühiselt, võib ka töötada väikestes rühmades, paaris või igaüks omaette. Katsetamiseks sobivad võimalikult lihtsad, neutraalsed valgusallikad (pirn soklis, taskulamp, telefon). Esimene eesmärk on uurida erinevate materjalide (paberid, tekstiilid, kiled, puit jne) koosmõju valgusega. Oluline on anda õpilastele aega katsetada ja mõtiskleda. Tähtis on läbi proovida erinevaid võimalusi (kuidas mõjub värviline valgus või lamp, mis heidab liikuvaid varje jne). Veel ei pea jõudma oma ideeni lambist, vaid avardama oma teadmisi sellest, mida erinevad materjalid võimaldavad. Katseid võib dokumenteerida foto või videona, et ülesande teise osa lõpus ühiselt arutleda, mida katsete käigus märgati ja mis köitis.
+
+III OSA
 
 Lambi kujundamise juurde asudes võiksid õpilased valida ühe meeleolu tähistava märksõna, millest nad püüavad lambi meisterdamisel lähtuda. See võib olla näiteks: õdus, võimas, sillerdav, hirmutav vmt. Eesmärk on meisterdada valgusti, mis looks ruumis sellise meeleolu. Julgemad võivad proovida lähtuda ka mõnest päris elu olukorrast - näiteks romantiline õhtusöök või poliitiline debatt, või veelgi julgematele, poliitiline õhtusöök või romantiline debatt - kuidas luua tabav valguslahendus sellistele hetkedele? Seega seisneb ülesande väljakutse pingutuses mõelda mitte ainult objekti (lambi) väljanägemisele, vaid ka sellest lähtuva valguse poolt loodavale keskkonnale.
 
