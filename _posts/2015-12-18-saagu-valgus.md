@@ -103,6 +103,7 @@ Mida ülesande puhul hinnata?
 - Võimalusel külastada valgusdisainereid, teatrietenduse või filmi valgustustiimi, (moe)fotograafi ja uurida neilt nende igapäevase töö kohta; panna tähele või kirjutada üles, kuidas nemad valgust kirjeldavad.
 - Iga õpilane võib leida teha väikese esitluse (nt üksainus foto või slaid, lühike suuline kirjeldus) valguse olulisusest või rollist vabalt valitud valdkonnas (valgus meditsiinis, valgus maalikunstis, valgus kaubanduses, valgus kosmoses, valgus arvutimängudes, valgus filmis, valgus reisil, valgusinstallatsioonid vm).
 - Kutsuda endale ideearenduse protsessi jooksul külla mõni valgustite või valguse spetsialist, kes õpilasi inspireeriks, arenevaid ideid kommenteeriks, vajadusel nõu annaks.
+- Soovi korral võib õpilastel lubada kasutada oma disainis ka olemasolevaid objekte (nt juusturiiv).
 
 #### Riiklik õppekava ja lõiming
 
