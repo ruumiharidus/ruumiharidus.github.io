@@ -77,7 +77,7 @@ disain, funktsioon, materjal, konstruktsioon
 #### Lisavõimalused, alternatiivid
 
 + Külastada Eesti Tarbekunsti- ja Disainimuuseumi (Lai 17, Tallinn).
-+ Külastada mööblidisaineri bürood või kutsuda mõni endale kooli külla.
++ Külastada mööblidisaineri bürood või kutsuda disainer endale kooli külla.
 
 #### Riiklik õppekava ja lõiming
 
