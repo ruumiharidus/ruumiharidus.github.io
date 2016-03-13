@@ -55,7 +55,7 @@ Kui on aega, võib läbi proovida ka valgustite kombinatsioone - lülitada sisse
 
 II OSA
 
-Peale esimest, sissejuhatavat osa asuvad õpilased materjale katsetama. Esimesed eksperimendid võib teha ühiselt, võib ka töötada väikestes rühmades, paaris või igaüks omaette. Katsetamiseks sobivad võimalikult lihtsad, neutraalsed valgusallikad (pirn soklis, taskulamp, telefon). Esimene eesmärk on uurida erinevate materjalide (paberid, tekstiilid, kiled, puit jne) koosmõju valgusega. Oluline on anda õpilastele aega katsetada ja mõtiskleda. Tähtis on läbi proovida erinevaid võimalusi (kuidas mõjub värviline valgus või lamp, mis heidab liikuvaid varje jne). Veel ei pea jõudma oma ideeni lambist, vaid avardama oma teadmisi sellest, mida erinevad materjalid võimaldavad. Katseid võib dokumenteerida foto või videona, et ülesande teise osa lõpus ühiselt arutleda, mida katsete käigus märgati ja mis köitis.
+Peale esimest, sissejuhatavat osa asuvad õpilased materjale katsetama. Esimesed eksperimendid võib teha ühiselt, võib ka töötada väikestes rühmades, paaris või igaüks omaette. Katsetamiseks sobivad võimalikult lihtsad, neutraalsed valgusallikad (pirn soklis, taskulamp, telefon). Esimene eesmärk on uurida erinevate materjalide (paberid, tekstiilid, kiled, puit jne) koosmõju valgusega. Oluline on anda õpilastele aega katsetada ja mõtiskleda. Tähtis on läbi proovida erinevaid võimalusi (kuidas mõjub värviline valgus või lamp, mis heidab liikuvaid varje jne). Veel ei pea jõudma oma ideeni lambist, vaid avardama oma teadmisi sellest, mida erinevad materjalid võimaldavad. Katseid võib dokumenteerida foto või videona, et ülesande teise osa lõpus ühiselt arutleda, mida katsete käigus märgati ja mis köitis. NB! Valgust võib olla üsna keeruline pildistada (nt automaatrežiimil kaamera tuvastab valgustingimused ebasobivalt, valgusti ise kaob pimedusse või jäädvustub valgusolukord oluliselt erinevalt sellest, mida silm näeb). Lihtsam võib olla katseid publiku ees lühidalt korrata.
 
 III OSA
 
@@ -98,8 +98,10 @@ Mida ülesande puhul hinnata?
 <section class="section-background">
 ### ...
 
-#### Lisavõimalused / alternatiivid
+#### Lisavõimalused, alternatiivid
 
+- Võimalusel külastada valgusdisainereid, teatrietenduse või filmi valgustustiimi, (moe)fotograafi ja uurida neilt nende igapäevase töö kohta; panna tähele või kirjutada üles, kuidas nemad valgust kirjeldavad.
+- Iga õpilane võib leida teha väikese esitluse (nt üksainus foto või slaid, lühike suuline kirjeldus) valguse olulisusest või rollist vabalt valitud valdkonnas (valgus meditsiinis, valgus maalikunstis, valgus kaubanduses, valgus kosmoses, valgus arvutimängudes, valgus filmis, valgus reisil, valgusinstallatsioonid vm).
 
 [Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
 </section>
