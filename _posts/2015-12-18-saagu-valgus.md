@@ -87,6 +87,7 @@ Mida ülesande puhul hinnata?
 - õpilane on kolmandas osas oma idee lõpuni viinud (vajadusel seda protsessi jooksul muutes või kohandades)
 - õpilane on oma ideed terviklikult arendanud (valminud on ohutu, püsiv ja meeleolule või olukorrale vastav valgusti)
 - õpilase taotlus on koos õpilase selgitustega valminud valgustis äratuntav
+- õpilane oskab oma tööprotsessi üle reflekteerida (kokku võtta, sõnastada keerulisemad hetked, põhjendada valikuid, analüüsida iseend loojana ja töö korraldajana)
 
 
 [Prindi ülesanne](){:class='do-print'}
