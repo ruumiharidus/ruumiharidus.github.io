@@ -35,16 +35,16 @@ Koolis on kappe, pinke, riiuleid, laudu ja lauakesi, sahtleid, prügikorve, tah
 #### Ülesande käik
 Ülesannet on võimalik lahendada mitmeti. Näiteks:
 
-a)
+(a)
 Koostada toolide välimääraja. Nii nagu on välimäärajad lindudele või seentele, võiks olla ka välimääraja koolitoolidele. Mis teeb iga tooli eriliseks? Milliste tundemärkide alusel seda ära tunda? Milleks ja millise istumisasendi jaoks on tool mõeldud? Millistest materjalidest on tool tehtud? Kas kirjeldamisel on tabavaid sõnu leida lihtne või keeruline? Võib-olla kelleltki nõu küsida?
 
-b)
-Teostada ühe tooli põhjalik inventuur, uurimine. Millistest osadest tool koosneb? Kas õnnestub kõik osad üles märkida (visandada, pildistada), nimetada õigete nimedega? Materjalid tuvastada? Mõõdud võtta? Eri osade funktsioon välja selgitada? Abiks võib olla näiteks tööõpetuse õpetajast.
+(b)
+Teostada ühe tooli põhjalik inventuur, uurimine. Millistest osadest tool koosneb? Kas õnnestub kõik osad üles märkida (visandada, pildistada), nimetada õigete nimedega? Materjalid tuvastada? Mõõdud võtta? Eri osade funktsioon välja selgitada? Abiks võib olla näiteks tööõpetuse õpetajast. Inspiratsiooniks tutvuda tootejuhenditega (nt IKEA mööbli kokkupanemise juhised).
 
-c)
+(c)
 Koostada erinevate mööbliesemete ja sisutuse fotogalerii. Millised on teie kooli kapid, pingid, riiulid, lauad, toolid? Kuidas need omavahel kokku sobivad? Milliseid liikumisi ja olemisi nende paigutus tekitab? Millistest materjalidest on need tehtud? Kas / kuidas teevad need koolielu paremaks või on neil ka mõningaid probleeme?
 
-d)
+(d)
 Kirjutada ühe mööblieseme arvutus. Just niimoodi nagu kirjutatakse arvustusi raamatutele, filmidele või muusikale. Arutleda, kuidas mööblitüki disainer või tootja just sellise teoseni jõudis, mis olid tema eesmärgid, millele ta võis mõelda või viidata, kuidas võis teda mõjutada kultuur, tavad, suundumused disainis või tehnoloogias. Kirjeldada, millise meeleolu ja olemise loob mööbliese selle kasutajas (arvustuse autoris) — kuidas autor end mööblieset kasutades tunneb. Arutleda, kas see on olnud eseme loomise eesmärk.
 
 </section>
