@@ -2,8 +2,9 @@
 published: true
 layout: lesson
 description: "Kuula koolimaja!"
-image: /images/pingpong.jpg
+image: "/images/koolimaja-haal.jpeg"
 ---
+
 
 
 
