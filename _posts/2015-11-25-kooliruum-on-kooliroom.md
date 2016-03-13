@@ -10,6 +10,7 @@ published: true
 
 
 
+
 <section class="section-bang">
 ### !
 
@@ -60,7 +61,7 @@ Fotodest gifi tegemiseks on mitmeid netipõhiseid tasuta tööriistu (otsingu
 
 ![gif-1.gif]({{site.baseurl}}/images/gif-1.gif)
 ![gif-2.gif]({{site.baseurl}}/images/gif-2.gif)
-![gif-4-ArchDaily.gif]({{site.baseurl}}/images/gif-4-Archdaily.gif)
+![gif-4-ArchDaily.gif]({{site.baseurl}}/images/gif-4-ArchDaily.gif)
 ArchDaily kollektiivi gif-animatsioonina teostatud pilt. Allikas: www.archdaily.com
 {:.caption}
 <iframe src="https://player.vimeo.com/video/18991085?byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
