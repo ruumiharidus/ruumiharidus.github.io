@@ -1,9 +1,10 @@
 ---
 published: true
 layout: lesson
-image: /images/
+image: "/images/saagu-valgus.jpg"
 description: Disaini meeleolu loov lamp
 ---
+
 
 
 
