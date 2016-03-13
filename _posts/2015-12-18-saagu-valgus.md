@@ -74,12 +74,11 @@ Valminud valgustitest on kindlasti efektne kujundada näitus - selleks võib ide
 ### ...
 
 #### Põhimõisted, võtmesõnad
-Valgusti, 
+Valgusti, valgusallikas, valgus, valguse tugevus, valguse värvus, elekter ja elektriohutus, valgusvaegus, talvemasendus (SAD - seasonal affective disorder)
 
 #### Hindamine
 
 
-[Prindi töölehed]({{ site.baseurl }}/assets/documents/hello.pdf)
 [Prindi ülesanne](){:class='do-print'}
 [Tagasiside]({{ site.baseurl }}/assets/documents/hello.pdf)
 </section>
