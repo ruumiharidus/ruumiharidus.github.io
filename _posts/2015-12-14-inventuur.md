@@ -11,7 +11,7 @@ image: /images/inventuur.jpg
 ### !
 
 vanus: 				| III kooliaste, gümnaasium
-kestus: 			|
+kestus: 			| iseseisev töö juhendamisega
 vorm: 				| ringkäik, uurimus
 eeltöö:				| -
 vajalikud vahendid:	| fotoaparaat / pildistav telefon või paber ja pliiats
@@ -47,6 +47,9 @@ Koostada erinevate mööbliesemete ja sisutuse fotogalerii. Millised on teie k
 (d)
 Kirjutada ühe mööblieseme arvutus. Just niimoodi nagu kirjutatakse arvustusi raamatutele, filmidele või muusikale. Arutleda, kuidas mööblitüki disainer või tootja just sellise teoseni jõudis, mis olid tema eesmärgid, millele ta võis mõelda või viidata, kuidas võis teda mõjutada kultuur, tavad, suundumused disainis või tehnoloogias. Kirjeldada, millise meeleolu ja olemise loob mööbliese selle kasutajas (arvustuse autoris) — kuidas autor end mööblieset kasutades tunneb. Arutleda, kas see on olnud eseme loomise eesmärk.
 
+(e)
+Teha erinevatest toolidest näitus. Valida selleks sobiv ruum, leida võimalikult palju eri toole, mõelda läbi toolide paigutus ruumis, koostada ja kujundada etiketid (just sellised nagu on päris kunstiteoste või disainiobjektide juures muuseumides). Kujundada näituse jaoks poster, kutsuda koolipere avamisele, teha väike tutvustav ettekanne mööblist ja inimesest, toolist ja õpilasest. Kutsuda külalisi üles erinevaid toole ise järele proovima, oma muljeid jagama ja kogemuse üle arutlema.
+
 </section>
 
 ------
@@ -54,10 +57,11 @@ Kirjutada ühe mööblieseme arvutus. Just niimoodi nagu kirjutatakse arvustu
 <section class="section-dots">
 ### ...
 
-#### Põhimõisted ja/või võtmesõnad
+#### Põhimõisted, võtmesõnad
 disain, funktsioon, materjal, konstruktsioon
 
 #### Hindamine
+
 + õpilane on leidnud laias teemas teda huvitava suuna
 + õpilane on keskendunult uurinud (uurimus ei ole pinnapealne)
 + õpilane ei pruugi teada kõige nimetusi ja funktsiooni, kuid oskab loetleda küsimusi, mis tal uurimise jooksul tekkisid ja millele ta vastust ei leidnud, ja aimab, kust võiks vastuseid leida
@@ -70,8 +74,12 @@ disain, funktsioon, materjal, konstruktsioon
 <section class="section-background">
 ### ...
 
-#### Lisavõimalused / alternatiivid
+#### Lisavõimalused, alternatiivid
+
++ Külastada Eesti Tarbekunsti- ja Disainimuuseumi (Lai 17, Tallinn).
++ Külastada mööblidisaineri bürood või kutsuda mõni endale kooli külla.
+
+#### Riiklik õppekava ja lõiming
 
 
-[Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
 </section>
