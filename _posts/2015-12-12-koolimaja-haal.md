@@ -71,7 +71,6 @@ akustika, kõla, kaja
 
 
 <section class="section-background">
-### ...
 
 #### Lisavõimalused, alternatiivid
 
