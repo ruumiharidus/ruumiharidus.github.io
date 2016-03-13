@@ -50,12 +50,16 @@ Esimesed 15 koolimaja annavad õpetajale võimaluse hoonete taustalugu avada j
 ### ...
 
 #### Põhimõisted, võtmesõnad
-
+arhitektuur, kontseptsioon, lähteülesanne
 
 #### Hindamine
 
++ õpilane on oma mõtte põhjalikult läbi töötanud (nt teinud mitu joonist või detailse pildi)
++ õpilane mõistab koolihoone kujundamise ülesande mitmekihilisust (st teadvustab funktsionaalseid, kompositsioonilisi, tehnilisi, kultuurilisi jm küsimusi, kuid ei pea neile kõigile oskama vastust anda)
++ õpilane on oma visioonis loonud süsteemi (idee osad on üksteisega loogiliselt, mõistetavalt seotud) ja oskab seda selgitada
 
-[Prindi töölehed]({{ site.baseurl }}/assets/documents/hello.pdf)
+[Laadi alla slaidid]({{ site.baseurl }}/assets/documents/hello.pdf)
+[Laadi alla õpetajaraamat]({{ site.baseurl }}/assets/documents/hello.pdf)
 [Prindi ülesanne](){:class='do-print'}
 [Tagasiside]({{ site.baseurl }}/assets/documents/hello.pdf)
 </section>
@@ -66,6 +70,7 @@ Esimesed 15 koolimaja annavad õpetajale võimaluse hoonete taustalugu avada j
 
 #### Lisavõimalused, alternatiivid
 
++ Soovi korral võib koolimajast või mõnest selle osast maketi või 3D-mudeli teha.
 
 #### Riiklik õppekava ja lõiming
 Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
