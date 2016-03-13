@@ -105,5 +105,7 @@ Mida ülesande puhul hinnata?
 - Kutsuda endale ideearenduse protsessi jooksul külla mõni valgustite või valguse spetsialist, kes õpilasi inspireeriks, arenevaid ideid kommenteeriks, vajadusel nõu annaks.
 
 [Riiklik õppekava ja lõiming]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
+
 Laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
+
 </section>
