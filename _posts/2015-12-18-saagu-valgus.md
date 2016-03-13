@@ -31,7 +31,7 @@ Lühemat või pikemat sorti loovtööprojekt, mille käigus uurivad õpilased va
 ### ?
 
 #### Taustaks õpetajale
-
+Valgus on ideaalne valdkonnaülene teema, milles kohtuvad paljude erialade teadmised ja saavutused kui ka igaühe igapäevane kogemus. Valgustid on hea näide tõigast, et teadust ja kunsti pole mõtet tajuda vastandite paarina. Valgusti puhul on ühtviisi oluline see, millist valgust see annab ja kuidas, ning milline see välja näeb ja kuidas on kasutatav (kus asub lüliti, kuidas saab valgusti asendit muuta jne). Valgusti loomisel ei saa neid omadusi lahku lüüa, valgusti disainimine eeldab oskust kasutada väga laialdasi teadmisi ühe eesmärgi nimel.
 
 #### Ülesande käik
 
