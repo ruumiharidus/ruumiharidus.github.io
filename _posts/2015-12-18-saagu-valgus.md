@@ -17,7 +17,7 @@ nõuab eeltööd:		| jah
 vajalikud vahendid:	| erinevad valgustid, materjalid
 seotud õppeained:	| füüsika, bioloogia, psühholoogia
 seotud teemad:		| valgus, elekter
-boonus:				| efektne näitus
+boonus:				| näitus
 
 #### Ülesande kirjeldus
 Lühemat või pikemat sorti loovtööprojekt, mille käigus uurivad õpilased valgustust ja meisterdavad ise päris lambi.
