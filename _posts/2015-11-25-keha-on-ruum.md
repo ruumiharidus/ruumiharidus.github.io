@@ -14,9 +14,10 @@ published: true
 vanus: 				| I, II ja III kooliaste, gümnaasium
 kestus: 			| 45 min
 vorm: 				| praktiline uurimus
-nõuab eeltööd:		| ei
+eeltöö:				| ei
 vajalikud vahendid:	| sportlik riietus
 seotud õppeained:	| kehaline kasvatus, kunst
+seotud teemad:		| tantsuline liikumine, enesekindlus
 boonus:				| ei vaja ettevalmistust, füüsiline tegevus
 
 #### Ülesande kirjeldus
