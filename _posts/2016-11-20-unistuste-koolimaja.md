@@ -14,12 +14,12 @@ eeltöö:				| -
 vajalikud vahendid:	| joonistus- või joonestusvahendid
 seotud õppeained:	| kunst
 seotud teemad:		| 
-boonus:				|
+boonus:				| 
 
 #### Ülesande kirjeldus
+Hea ja nüüdisaegse koolihoone väljamõtlemine. Ülesanne pärineb konkursilt "Unistuste koolimaja".
 
-
-#### Tunni ettevalmistus (õpetajale)
+#### Ettevalmistus
 
 
 </section>
