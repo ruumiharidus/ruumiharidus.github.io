@@ -81,5 +81,6 @@ disain, funktsioon, materjal, konstruktsioon
 
 #### Riiklik õppekava ja lõiming
 
+Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
 
 </section>
