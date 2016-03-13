@@ -55,13 +55,16 @@ Võib laulda või teha muusikat või proovida hääli, mida tavaliselt pole 
 <section class="section-dots">
 ### ...
 
-#### Põhimõisted ja/või võtmesõnad
-
+#### Põhimõisted, võtmesõnad
+akustika, kõla, kaja
 
 #### Hindamine
 
++ õpilane on innukalt töös osalenud
++ õpilane on põhjalikumalt uurinud teda köitvat teemat (ruumi või helide liiki) või teinud erinevaid katseid
++ õpilane oskab oma uurimust ja kogemust kirjeldada
++ õpilane oskab iseloomustada ruumi lihtsamaid akustilisi omadusi (nt kajab või ei kaja, kõlab teistmoodi kui teised ruumid või mitte)
 
-[Prindi töölehed]({{ site.baseurl }}/assets/documents/hello.pdf)
 [Prindi ülesanne](){:class='do-print'}
 [Tagasiside]({{ site.baseurl }}/assets/documents/hello.pdf)
 </section>
