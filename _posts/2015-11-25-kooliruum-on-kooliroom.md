@@ -8,21 +8,22 @@ published: true
 
 
 
+
 <section class="section-bang">
 ### !
 
 vanus: 				| II ja III kooliaste, gümnaasium
 kestus: 			| 45 min
-vorm: 				| füüsiline tegevus, töö arvutiga
+vorm: 				| loovprojekt
 eeltöö:				| -
 vajalikud vahendid:	| fotokas, internetiühendus või pilditöötlusprogramm
 seotud õppeained:	| arvutiõpetus
-boonus:				| ei vaja ettevalmistust
+boonus:				| ei vaja ettevalmistust, füüsiline tegevus
 
 #### Ülesande kirjeldus
 Koolimaja heas või põnevas kohas lavastatav ja pildistatav liikumine, millest pannakse kokku väike gif-animatsioon. Ülesanne pärineb Kooliruum’16 loovtööprojektist.
 
-#### Tunni ettevalmistus (õpetajale)
+#### Ettevalmistus
 Tund ei vaja ettevalmistust. Ülesande tegemiseks on vajalik fotoaparaat (väga hästi sobib ka pildistav telefon) ja internetiühendus või pilditöötlusprogramm.
 
 </section>
@@ -31,12 +32,12 @@ Tund ei vaja ettevalmistust. Ülesande tegemiseks on vajalik fotoaparaat (väga 
 ### ?
 
 #### Taustaks õpetajale
-Ülesande esimese osa eesmärk on panna õpilased mõtlema oma koolihoone eripärale ja erinevatele kohtadele selles ning valima võtteplatsi gifi tegemiseks. Leida tuleb see äge koht, mida oma koolimajast tervele Eestile tahaksite näidata. See ei pruugi sugugi olla kooli kõige ilusam ruum (mis ilu üldse on?). On isegi tore, kui tegu pole selle kõige esimese ja ootuspärasema valikuga. Näiteks hiiglaslikus Kumu kunstimuuseumi hoones Tallinnas on üks eriti põnev koht ühe tagumise trepi alune tühimik, kuhu pugedes kajab terve ruum kuidagi hoopis teistmoodi. Sellist huvitavat kohta juba näitaks külalisele!
+Ülesande esimese osa eesmärk on panna õpilased mõtlema oma koolihoone eripärale ja erinevatele kohtadele selles ning valima võtteplatsi gifi tegemiseks. Leida tuleb äge koht, mida oma koolimajast tervele Eestile tahaksite näidata. See ei pruugi sugugi olla kooli kõige ilusam ruum (mis ilu üldse on?). On isegi tore, kui tegu pole kõige esimese ja ootuspärasema valikuga. Näiteks hiiglaslikus Kumu kunstimuuseumi hoones Tallinnas on üks eriti põnev koht ühe tagumise trepi alune tühimik, kuhu pugedes kajab terve ruum kuidagi hoopis teistmoodi. Sellist huvitavat kohta juba näitaks külalisele!
 
 Milline põnev nurgatagune või avarus või kõrgus või pugerik või trepipealne või -alune valida võtteplatsiks? Milline koht teie koolist väärib maailmale näitamist ja sobib teie tiimile võrdväärseks taustaks?
 
 #### Ülesande käik
-Õpetaja selgitab ülesannet, näidetena vaadatakse liikuvaid gif-pilte.
+Õpetaja selgitab ülesannet, näidetena vaadatakse liikuvaid gif-pilte (vt nt neid, mis on toodud allpool).
 
 Õpilased töötavad 3- või 4-liikmeliste rühmadena. Esimene ülesanne on leida üles koolimaja hea, põnev või iseloomulik koht. Otsitav paik võib asuda ka õues, koolihoone ees, taga või küljel (nt uhke välitrepp). See, et kooli nimi jääks pildile ei ole üldse oluline. On isegi palju põnevam, kui valminud gif-i vaataja tähelepanu ei tõmba silt, vaid ruum ise ja selle eripära.
 
@@ -44,13 +45,13 @@ Milline põnev nurgatagune või avarus või kõrgus või pugerik või trep
 
 Ülesande teine osa on väljakutse loovusele. Kuidas inimesed pildil liikuma panna? Kuidas asetsevad nad väljavalitud ruumis? Kuidas oma asendit või asukohta muudavad, et sellest saaks liikuva gifi kokku panna? Miks just selline liikumine?
 
-Meenutage vaadatud gif-pilte. Kindlasti teavad õpilased ise üksteisele toredaid eeskujusid näidata. Internetist leiab üht-teist asjakohast märksõnaga stop motion. Kui mõtted lähevad väga kõrgelt lendu – või vastupidi, ei taha hoogugi võtta – on abiks meeldetuletus, et toreda gifi saab ka äärmiselt lihtsate liikumistega:
+Meenutage vaadatud gif-pilte. Kindlasti teavad õpilased ise üksteisele toredaid eeskujusid näidata. Internetist leiab üht-teist asjakohast märksõnaga *stop motion*. Kui mõtted lähevad väga kõrgelt lendu – või vastupidi, ei taha hoogugi võtta – on abiks meeldetuletus, et toreda gifi saab ka äärmiselt lihtsate liikumistega:
 
 + näiteks võivad inimesed olla paigal, asukohta (omanikku) vahetavad hoopis kindad (mütsid, pusad, ...)
 + hüppe pealt tehtud pildid, kui need järjest jooksma panna, paistavad nagu inimene hõljuks õhus
 + lihtsa aga mõjuva ruumilise efekti saavutab perspektiiviga: keegi liigub kaamerast eemale või kaamerale lähemale
 
-Mõtteid on üsna lihtne kiiresti järgi proovida: järjest tehtud fotode liikuva-pildi-efekti näeb ka fotokaameras või telefonis vaatamise režiimil kiiresti pilte vahetades.
+Mõtteid saab kiiresti järele proovida: järjest tehtud fotode liikuva-pildi-efekti näeb ka fotokaameras või telefonis vaatamise režiimil kiiresti pilte vahetades.
 
 Ülesande kolmas, viimane osa on tehniline teostamine. Proovige hakkama saada minimaalse arvu piltidega – lühike ja lööv on meeldejääv! Vaimustava gifi saab kokku panna ka ainult kahest pildist (mõne rohkemaga on jällegi lihtsam liikumist edasi anda).
 
