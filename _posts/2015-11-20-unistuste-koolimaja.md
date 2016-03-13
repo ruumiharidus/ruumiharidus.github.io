@@ -58,8 +58,8 @@ arhitektuur, kontseptsioon, lähteülesanne
 + õpilane mõistab koolihoone kujundamise ülesande mitmekihilisust (st teadvustab funktsionaalseid, kompositsioonilisi, tehnilisi, kultuurilisi jm küsimusi, kuid ei pea neile kõigile oskama vastust anda)
 + õpilane on oma visioonis loonud süsteemi (idee osad on üksteisega loogiliselt, mõistetavalt seotud) ja oskab seda selgitada
 
-[Laadi alla slaidid]({{ site.baseurl }}/assets/documents/hello.pdf)
-[Laadi alla õpetajaraamat]({{ site.baseurl }}/assets/documents/hello.pdf)
+[Laadi alla slaidid](http://www.arhitektuurikool.ee/wp-content/uploads/2014/09/Mis-on-arhitektuur-slaidid.pdf)
+[Laadi alla õpetajaraamat](http://www.arhitektuurikool.ee/wp-content/uploads/2014/09/Mis-on-arhitektuur-tekst.pdf)
 [Prindi ülesanne](){:class='do-print'}
 [Tagasiside]({{ site.baseurl }}/assets/documents/hello.pdf)
 </section>
