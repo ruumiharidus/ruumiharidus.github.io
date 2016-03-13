@@ -70,17 +70,15 @@ Fotodest gifi tegemiseks on mitmeid netipõhiseid tasuta tööriistu (otsingu
 ### ...
 
 #### Põhimõisted, võtmesõnad
-tantsuline liikumine, nüüdistants, arhitektuur, stop-motion animatsioon, stsenaarium
+tantsuline liikumine, nüüdistants, arhitektuur, *stop-motion* animatsioon, stsenaarium
 
 #### Hindamine
-Mida ülesande puhul hinnata?
 
 + õpilane on järele proovinud palju erinevaid asendeid paljudes kohtades
 + õpilane on olnud asendite väljamõtlemisel loominguline
 + õpilane oskab oma kogemust (nt asendist tulenevaid tundeid, ruumi ja asendi koosmõju) huvitavalt analüüsida
 + õpilane oskab loominguliselt tegutsedes olla lugupidav keskkonna ja teiste suhtes ning tegutseda ohutult
 
-[Prindi töölehed]({{ site.baseurl }}/assets/documents/hello.pdf)
 [Prindi ülesanne](){:class='do-print'}
 [Tagasiside]({{ site.baseurl }}/assets/documents/hello.pdf)
 </section>
@@ -90,9 +88,11 @@ Mida ülesande puhul hinnata?
 ### ...
 
 #### Lisavõimalused, alternatiivid
-+ Lühema versioon: tegutseda väiksemal alal (nt ainult klassiruumis), iga õpilane leiutab etteantud ajaga (nt 10 min) ühe põneva poosi. Kõik tegutsevad samaaegselt.
++ Lühem versioon: tegutseda väiksemal alal (nt ainult klassiruumis), iga õpilane leiutab etteantud ajaga (nt 10 min) ühe põneva poosi. Kõik tegutsevad samaaegselt.
 + Pikem versioon: tegutseda suuremal alal, nt terves koolimajas, proovida järele paljusid võimalusi, esitleda ja vaadata tulemusi üheskoos (nt ekskursiooni, fotoseeria vormis).
 + Nagu ka videoklippidest näha, saab efektsed pildid nt ühevärviliselt või lihtsalt värviliselt riietudes. Riietust teadlikult valides ja kadreeringut planeerides on võimalik ülesande teine osa (tulemuste esitlemine) teostada läbimõeldud foto- või videoprojektina (esitada tehtu fotona, liikuva gif-pildina või videoklipina).
 
-[Kattuvus riikliku õppekavaga (.pdf)]({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'}
+#### Riiklik õppekava ja lõiming
+Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
+
 </section>
