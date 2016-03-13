@@ -32,7 +32,7 @@ Valida kooliümbrusest ala, kust iga õpilane peab leidma tema jaoks kõige põn
 #### Taustaks õpetajale
 Ülesande eesmärk on panna õpilasi märkama igapäevastes kohtades põnevust ja erakordsust ning oma elukeskkonna ruumilist mitmekesisust. Ruumi nüansside märkamine ja väärtustamine seotuna sportliku tegevusega kutsub oma keskkonda aktiivselt kasutama ja nautima. Õpilase kohavaliku põhjendus peaks olema just ruumist lähtuv (mitte nt ajalooline fakt selle koha kohta või funktsioonist lähtuv, nt kino, sest mulle meeldib filme vaadata). Mida ruumi puhul märgata? Avarust või tihedust, avatuse (avaliku) või suletuse (era, salajase) mulje, kõrgust või madalust, monotoonsust või mitmekesisust jne.
 
-#### Eelnev kodune ülesanne (õpilasele)
+#### Eelnev kodune ülesanne õpilasele
 Leia ette antud alalt üks põnev õueruum (hooneesine, tänavanurk, pargitee käänak, sillapealne,…) ja mõtle, mis teeb just selle koha ruumiliselt eriliseks (hoonete tihedus, hoonete või rajatiste vorm, kitsas koht, avar koht, tavaliselt märkamatu koht,…). Kuidas väljendada seda ruumilist eripära oma kehaga – milline võiks olla sellest kohast inspireeritud harjutus? Näiteks: kõrgete hoonete puhul üleshüpped, madala majakese puhul kükid, silla puhul venitusharjutus (või midagi keha siruulatusele) jne. NB! Harjutust ei pea sooritama täpselt väljavalitud kohas (st silla puhul võib harjutusi teha silla kõrval). Jooksuringil ole valmis esmalt oma valikut põhjendama (miks on see koht eriline ruum?) ja seejärel oma harjutust ette näitama.
 
 #### Ülesande käik
@@ -69,5 +69,6 @@ tervisejooks, tervislik eluviis ja keskkond, nüüdistants
 + Lihtsam variant: õpetaja valib kohad ise, koos tehakse jooksuring ja koos mõeldakse valitud kohtades neid kohti iseloomustavad harjutused välja.
 
 #### Riiklik õppekava ja lõiming
+Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
 
 </section>
