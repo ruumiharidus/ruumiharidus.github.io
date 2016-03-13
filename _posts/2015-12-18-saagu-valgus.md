@@ -106,6 +106,6 @@ Mida ülesande puhul hinnata?
 
 #### Riiklik õppekava ja lõiming]
 
-Vaata või laadi alla pdf ({{ site.baseurl }}/assets/documents/hello.pdf){:class='national-pdf'} ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
+Vaata või laadi alla pdf ülesande kattuvuse kohta RÕK teemadega ja lõimimise võimalustest.
 
 </section>
